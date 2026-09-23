@@ -70,15 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=awab-musa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Awab's GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awab-musa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/awab-musa-909807333](https://www.linkedin.com/in/awab-musa-909807333/)
