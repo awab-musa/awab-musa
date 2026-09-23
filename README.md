@@ -17,22 +17,16 @@
 - 🎓 Information Technology student at **Cairo University – Faculty of Computers & AI** (General IT program)
 - ☁️ Focused on **Cloud Computing**, with a strong interest in **Amazon Web Services (AWS)**
 - 🧠 Passionate about programming, problem solving, and building reliable systems
-- 📚 Currently learning: **AWS core services, Linux, networking, Docker, and Infrastructure as Code**
-- 🎯 Goal: become a **Cloud / DevOps Engineer** and earn AWS certifications
+- 🎯 Goal: become a **Cloud / DevOps Engineer**
 
 ---
 
-## 🎯 Cloud Learning Roadmap 2026
+## 🔭 Current Focus
 
-| Goal | Status |
-|------|--------|
-| Linux & command line fundamentals | 🔄 In progress |
-| Networking basics (TCP/IP, DNS, HTTP) | 🔄 In progress |
-| AWS core services (EC2, S3, IAM, VPC, RDS) | 🔄 In progress |
-| AWS Certified Cloud Practitioner | 🎯 Planned |
-| Docker & containers | 🎯 Planned |
-| Terraform (Infrastructure as Code) | 🎯 Planned |
-| AWS Solutions Architect – Associate | 🎯 Planned |
+- 📖 **Learning:** AWS core services (EC2, S3, IAM, VPC), Linux, and networking fundamentals
+- 🛠️ **Building:** hands-on cloud labs, documented step by step in my repositories
+- 🏅 **Preparing for:** AWS Certified Cloud Practitioner
+- 🤝 **Open to:** internships, study groups, and cloud / DevOps opportunities
 
 ---
 
